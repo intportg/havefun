@@ -1,0 +1,3 @@
+hbox.container .logo-product{
+	-moz-binding: url(binding:modules.havefun.cAboutChange#cEasterEgg);
+}

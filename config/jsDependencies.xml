@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scripts>
+	<script name="modules.havefun.lib.frontoffice">
+		<dependencies>
+			<dependency name="modules.havefun.lib.js.konami" />
+		</dependencies>
+	</script>
+	
+	<script name="modules.havefun.lib.js.konami">
+		<dependencies>
+			<dependency name="modules.website.lib.js.jquery" />
+		</dependencies>
+	</script>
+</scripts>
