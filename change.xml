@@ -4,16 +4,9 @@
 	xsi:schemaLocation="http://www.rbs.fr/schema/change-component/1.0 http://www.rbschange.fr/static/schema/change-component/1.0.xsd">
 	<name>havefun</name>
 	<type>change-module</type>
-	<version>3.6.4</version>
+	<version>3.6.5</version>
 	<description>Havefun module</description>
 	<license>os</license>
 	<repository>public</repository>
-	<dependencies>
-		<!--<dependency>
-			<name>change-lib/framework</name>
-			<versions>
-				<version>3.6.4</version>
-			</versions>
-		</dependency>-->
-	</dependencies>
+	<dependencies />
 </change>
